@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f511d205b4bbc64c9f06a7e5dce1fbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - click: {fileID: 8300000, guid: 4dc2f89a08b6e294db171436f2a2895c, type: 3}
+  - door: {fileID: 8300000, guid: 2e517d638edd73543ae0186b01792bb9, type: 3}
+  - damage: {fileID: 8300000, guid: d52594b5d5420cc4e92cbac2cfb482b0, type: 3}
+  - crystal: {fileID: 8300000, guid: 5d7754c109e71fe4d92429204013de9e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
